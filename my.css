@@ -1,0 +1,26 @@
+#menu{
+	color: blue;
+	text-align: center;
+	font-style: italic;
+	font-size: 20px;
+}
+
+#textHome{
+	color: red;
+	font-style: italic;
+	font-size: 50px;
+}
+
+.tabHeader{
+	color: green;
+	font-size: 30px;
+}
+
+#HelloText{
+	color: green;
+	font-size: 50px;
+}
+
+#borrowHeader{
+	color: rgb(67,96,248);
+}

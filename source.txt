@@ -1,0 +1,7 @@
+Sources:
+
+http://simpleicon.com/wp-content/uploads/account.png (img account)
+
+https://www.w3schools.com
+
+http://demos.jquerymobile.com/1.4.5/
